@@ -21,6 +21,7 @@ float f2(int& x)
 	x = f1(x);
 }
 
+
 int main()
 {
 	setlocale(LC_ALL, "rus");
